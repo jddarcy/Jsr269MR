@@ -1,0 +1,13 @@
+Bug system: https://bugs.openjdk.org
+
+JDK-8306585: Add SourceVersion.RELEASE_22
+JDK-8246280: Refine API to model sealed classes and interfaces in javax.lang.model
+JDK-8281169: Expand discussion of elements and types
+JDK-8307184: Incorrect/inconsistent specification and implementation for Elements.getDocComment
+JDK-8310676: add note about unnamed module to Elements.getAllModuleElement
+JDK-8312418: Add Elements.getEnumConstantBody
+JDK-8314477: Improve definition of "prototypical type"
+JDK-8315137: Add explicit override RecordComponentElement.asType()
+JDK-8317221: Implementation for javax.lang.model for Unnamed Variables & Patterns
+JDK-8320941: Discuss receiver type handling
+JDK-8319133: Implement JEP 463: Changes to annotation processing related to dropping unnamed classes
