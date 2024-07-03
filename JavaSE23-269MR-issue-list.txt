@@ -1,0 +1,10 @@
+Bug system: https://bugs.openjdk.org
+
+JDK-8319414: Add SourceVersion.RELEASE_23
+JDK-8042981: Strip type annotations in Types' utility methods
+JDK-8175386: Clarify exception behavior of Types utility methods
+JDK-8302019: Clarify Elements.overrides
+JDK-8322248: Fix inconsistent wording in ElementFilter.typesIn
+JDK-8329296: Update Elements for '///' documentation comments
+JDK-8329624: Add visitors for preview language features
+JDK-8329644: Discuss expected visitor evolution patterns in javax.lang.model.util
