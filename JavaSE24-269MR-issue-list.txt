@@ -1,0 +1,6 @@
+Bug system: https://bugs.openjdk.org
+
+JDK-8330183: Add SourceVersion.RELEASE_24
+JDK-8339696: Clarify modeling scope of javax.lang.model.element
+JDK-8340721: Clarify special case handling of unboxedType and getWildcardType
+JDK-8341483: Clarify special case handling of Types.getArrayType 
