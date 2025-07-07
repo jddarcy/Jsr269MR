@@ -1,0 +1,6 @@
+Bug system: https://bugs.openjdk.org
+
+JDK-8342982: Add SourceVersion.RELEASE_25
+JDK-8356108: Update SourceVersion.RELEASE_25 description for JEPs 511 and 512
+JDK-8354091: Update RELEASE_25 description for Flexible Constructor Bodies
+JDK-8174840: Elements.overrides does not check the return type of the methods
