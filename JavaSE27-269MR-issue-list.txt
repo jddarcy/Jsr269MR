@@ -1,0 +1,6 @@
+Bug system: https://bugs.openjdk.org
+
+JDK-8370893: Add SourceVersion.RELEASE_27
+JDK-8374658: Consider use of "included" rather than "enclosed" in jx.a.p.Processor
+JDK-8374953: Add note on about implicit state when comparing TypeMirrors
+JDK-8379156: Specify behavior of Types.asElement() on array types
